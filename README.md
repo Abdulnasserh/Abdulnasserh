@@ -18,7 +18,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 ```yaml
-name: Xierto Abdulnasserh
+name: Xierto Abdulnasser
 location: Dar es Salaam, Tanzania
 pronouns: He/Him
 title: Founder & CEO @ Multiflow AI
