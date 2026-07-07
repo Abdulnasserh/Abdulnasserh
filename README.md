@@ -68,7 +68,7 @@ I'm a passionate **software engineer** and **entrepreneur** building the future 
 
 ## 🚀 What I'm Building
 
-- 🔭 **Multiflow AI** — AI-powered automation platform
+- 🔭 **Multiflow AI** — AI video Ads generation Platform
 - 🌱 Deepening my expertise in **distributed systems** & **LLM infrastructure**
 - ⚡ Fun fact: I speak **English & Swahili** — building bridges through code and culture
 
